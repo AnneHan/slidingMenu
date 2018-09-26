@@ -1,5 +1,7 @@
 package com.hyl.acccountbookdemo;
 
+import android.support.v7.app.AppCompatActivity;
+
 /**
  * @programName: TestActivity.java
  * @programFunction: use test
@@ -9,5 +11,5 @@ package com.hyl.acccountbookdemo;
  * xx.   yyyy/mm/dd   ver    author    comments
  * 01.   2018/09/25   1.00   AnneHan   New Create
  */
-public class TestActivity {
+public class TestActivity extends AppCompatActivity {
 }
